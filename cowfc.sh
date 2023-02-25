@@ -307,8 +307,8 @@ function config_mysql() {
     # The below sed command has NOT been tested so we don't know if this will work or not.
     #sed -i -e 's/passwordhere/passwordhere/g' /var/www/html/_site/AdminPage.php
     # Next we will install two more packages to make mysql and sqlite work with PHP
-    apt-get install --force-yes php7.1-mysql -y
-    apt-get install --force-yes sqlite php7.1-sqlite3 -y
+    apt-get install --force-yes php7.4-mysql -y
+    apt-get install --force-yes sqlite php7.4-sqlite3 -y
     # Now we will set up our first admin user
     echo "Now we're going to set up our first Admin Portal user."
     read -rp "Please enter the username you wish to use: " firstuser
