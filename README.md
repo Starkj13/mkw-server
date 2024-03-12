@@ -52,7 +52,6 @@ Computer Config
 
 Gaming now you should be able to launch MKW and go into the Nintendo WFC tab and start adding friends.
 Have fun playing with your friends
--------
 
 📖 Notes
 -------
