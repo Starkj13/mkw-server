@@ -43,15 +43,30 @@ Dolphine Emulator Config
 2. Locate MKW and right-click on it and choose properties
 3. Go over to Gecko-Code tab and enable it.
 4. When enabled add a new line of code. (Disables SSL check)
-   `C0000000 0000000E 3C004E80 60000020 900F0000 3D808000 618C3000 3C00017F 6000CFFC 7C0903A6 3D607474 616B7073 800C0000 7C005800 40A20034 394C0003 392C0002 7D455378 38600000 8C050001 2C000000 38630001 4082FFF4 8C0A0001 9C090001 3463FFFF 4082FFF4 398C0001 4200FFC0 4E800020` Cred Vega, for the noSSL code
-5. Save and exit
-6. Now is the Dolphine emulator configured
+   `C0000000 0000000E\
+   3C004E80 60000020
+   900F0000 3D808000
+   618C3000 3C00017F
+   6000CFFC 7C0903A6
+   3D607474 616B7073
+   800C0000 7C005800
+   40A20034 394C0003
+   392C0002 7D455378
+   38600000 8C050001
+   2C000000 38630001
+   4082FFF4 8C0A0001
+   9C090001 3463FFFF
+   4082FFF4 398C0001
+   4200FFC0 4E800020`
+   Cred [Vega](https://mariokartwii.com/showthread.php?tid=1149), for the noSSL code
+6. Save and exit
+7. Now is the Dolphine emulator configured
 
 Computer Config
 1. Change the DNS resolver on your computer to the ip of the CoWFC server.
 
 Playing 
-now you should be able to launch MKW and go into the Nintendo WFC tab and start adding friends.
+Now you should be able to launch MKW and go into the Nintendo WFC tab and start adding friends.
 
 Have fun playing with your friends. 🎮
 
@@ -73,5 +88,6 @@ AWS Ubuntu 16.04 script use PHP 7.0 & MySQL
 ❤️ Credits
 -------
 kyle95wm\
-EnergyCube
+EnergyCube\
+[CooperAJ](https://www.youtube.com/watch?v=VUoE6R071oo&t=1040s)
 
