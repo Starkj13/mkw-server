@@ -43,7 +43,7 @@ Dolphine Emulator Config
 2. Locate MKW and right-click on it and choose properties
 3. Go over to Gecko-Code tab and enable it.
 4. When enabled add a new line of code. (Disables SSL check)
-   `C0000000 0000000E\
+   `C0000000 0000000E<br>
    3C004E80 60000020
    900F0000 3D808000
    618C3000 3C00017F
