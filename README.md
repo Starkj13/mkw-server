@@ -69,10 +69,10 @@ Dolphine Emulator Config
 Computer Config
 1. Change the DNS resolver on your computer to the ip of the CoWFC server.
 
-Playing 
+Playing 🎮 <br/>
 Now you should be able to launch MKW and go into the Nintendo WFC tab and start adding friends.
 
-🎮 Have fun playing with your friends.
+Have fun playing with your friends.
 
 📖 Notes
 -------
