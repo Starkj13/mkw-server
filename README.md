@@ -24,7 +24,7 @@ Create a new issue and communicate all informations that you can.
 
 `mkdir /var/www ; cd /var/www && wget https://raw.githubusercontent.com/EnergyCube/cowfc_installer/master/cowfc.sh && chmod +x cowfc.sh && ./cowfc.sh`
 
-After system reboot : `cd /var/www && ./cowfc.sh`
+After system reboot : `cd /var/www && ./cowfc.sh` <br/>
 The server creates a web interface that you can access by "http://'serverip'/?page=admin&section=Dashboard".
 
 Remplace cowfc.sh with cowfc_for_aws_ubuntu_16.sh if you are using AWS.
