@@ -75,10 +75,9 @@ Now you should be able to launch MKW and go into the Nintendo WFC tab and start 
 
 Have fun playing with your friends.
 
-You may need to start the Apache2 and Dnsmasq service after a reboot of the Ubuntu VM
-
 📖 Notes
 -------
+You may need to start the Apache2 and Dnsmasq service after a reboot of the Ubuntu VM
 
 This script comes in 3 phases for Ubuntu. Each phase involves a reboot
 -	Add the PHP 7.4 repo
