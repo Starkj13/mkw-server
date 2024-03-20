@@ -75,6 +75,8 @@ Now you should be able to launch MKW and go into the Nintendo WFC tab and start 
 
 Have fun playing with your friends.
 
+You may need to start the Apache2 and Dnsmasq service after a reboot of the Ubuntu VM
+
 📖 Notes
 -------
 
