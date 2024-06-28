@@ -63,7 +63,7 @@ Dolphine Emulator Config
    4082FFF4 398C0001
    4200FFC0 4E800020
    ```
-   Cred [Vega](https://mariokartwii.com/showthread.php?tid=1149), for the noSSL code
+   Credit [Vega](https://mariokartwii.com/showthread.php?tid=1149), for the noSSL code
 6. Save and exit
 7. Now is the Dolphine emulator configured
 
@@ -93,7 +93,9 @@ AWS Ubuntu 16.04 script use PHP 7.0 & MySQL
 
 ❤️ Credits
 -------
-kyle95wm\
-EnergyCube\
-[CooperAJ](https://www.youtube.com/watch?v=VUoE6R071oo&t=1040s)
+[kyle95wm](https://github.com/kyle95wm)\
+[EnergyCube](https://github.com/EnergyCube)\
+[CooperAJ](https://www.youtube.com/watch?v=VUoE6R071oo)\
+[Vega](https://mariokartwii.com/showthread.php?tid=1149)
+
 
