@@ -96,6 +96,6 @@ AWS Ubuntu 16.04 script use PHP 7.0 & MySQL
 [kyle95wm](https://github.com/kyle95wm)\
 [EnergyCube](https://github.com/EnergyCube)\
 [CooperAJ](https://www.youtube.com/watch?v=VUoE6R071oo)\
-[Vega](https://mariokartwii.com/showthread.php?tid=1149)
+[Vega](https://mariokartwii.com/member.php?action=profile&uid=1)
 
 
